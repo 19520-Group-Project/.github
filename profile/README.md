@@ -2,7 +2,7 @@
 
 This Github organisation and sub repositories aims to house and support the developement of the JLB prototype.
 
-The project is being managed with githubs own project management board system, this should allow for easier continuous management and then generation of items like Gantt Charts.
+The project is being managed with Githubs own project management board system, this should allow for easier continuous management and then generation of items like Gantt Charts.
 
 ## Useful Links 
 <br>
