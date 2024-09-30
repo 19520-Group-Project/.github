@@ -13,9 +13,5 @@ The project is being managed with githubs own project management board system, t
 
 [<kbd> <br> 📖 View Report Repo <br> </kbd>][vr]
 
-<br>
-
-<br>
-
 [tb]: https://github.com/orgs/19520-Group-Project/projects/1/views/1
 [vr]: https://github.com/19520-Group-Project/Report-Artefacts
