@@ -1,12 +1,21 @@
-## Hi there 👋
+# Welcome to the project management for 19520/EM501👋
 
-<!--
+This Github organisation and sub repositories aims to house and support the developement of the JLB prototype.
 
-**Here are some ideas to get you started:**
+The project is being managed with githubs own project management board system, this should allow for easier continuous management and then generation of items like Gantt Charts.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Useful Links 
+<br>
+
+[<kbd> <br> ✅ View Taskboard <br> </kbd>][tb]
+
+<br>
+
+[<kbd> <br> 📖 View Report Repo <br> </kbd>][vr]
+
+<br>
+
+<br>
+
+[tb]: https://github.com/orgs/19520-Group-Project/projects/1/views/1
+[vr]: https://github.com/19520-Group-Project/Report-Artefacts
